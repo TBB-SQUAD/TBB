@@ -1,1 +1,3 @@
-# TBB
+# INSTALL
+
+       rm -rf TBB
